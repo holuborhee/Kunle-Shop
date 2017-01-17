@@ -8,7 +8,7 @@ Download and copy to server
 
 ### Prerequisites
 Apache Server and Mysql Database
-Give examples
+
 
 ### Installing
 
@@ -18,13 +18,15 @@ Change the value of username and password of database in head.php to your userna
 
 User
 
-username username
-password password
+username: username
+
+password: password
 
 Admin
 
-username admin
-password password
+username: admin
+
+password: password
 
 
 
